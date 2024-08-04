@@ -33,7 +33,7 @@ I've been learning to code for 4 years by making university projects including d
 
 <a href="http://www.github.com/NavileenXD" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=NavileenXD&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true" alt="NavileenXD's GitHub stats" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavileenXD&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NavileenXD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </a>
 
 
