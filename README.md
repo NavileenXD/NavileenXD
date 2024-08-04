@@ -34,7 +34,7 @@ I've been learning to code for 4 years by making university projects including d
 <a href="https://github.com/NavileenXD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavileenXD&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-<img src="https://raw.githubusercontent.com/NavileenXD/NavileenXD/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com//NavileenXD/output/snake.svg" alt="Snake animation" />
 
 ###
 
