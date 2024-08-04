@@ -36,7 +36,7 @@ I've been learning to code for 4 years by making university projects including d
 
 
 <div align="center"; height: 100%>
-  <img height="242" src="https://i.pinimg.com/originals/35/57/3c/35573c4b36b021afa1867a35d3265177.jpg"  />
+  <img height="242" src="https://i.pinimg.com/originals/35/57/3c/35573c4b36b021afa1867a35d3265177.jpg" width="919" />
 </div>
 
 ###
